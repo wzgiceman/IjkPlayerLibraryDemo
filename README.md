@@ -1,0 +1,2 @@
+# IjkPlayerLibraryDemo
+IjkPlayerLibrary播放案例，简单封装
